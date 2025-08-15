@@ -11,7 +11,8 @@ A sleek and responsive iPhone-themed website built using React.
 ## 🛠️ Tech Stack  
 - React.js  
 - HTML & CSS  
-- JavaScript  
+- JavaScript
+- Gsap
 
 ## 📦 Installation  
 1. Clone the repository:  
